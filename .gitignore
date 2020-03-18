@@ -2,3 +2,9 @@ out.log
 
 target/
 
+.project
+
+.classpath
+
+.settings/
+
